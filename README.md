@@ -1,1 +1,2 @@
-# Git Activity
+# This is a collaborative project.
+
