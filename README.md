@@ -1,2 +1,1 @@
-# This is a collaborative project.
-
+This is a collaborative project by student A and student B.
